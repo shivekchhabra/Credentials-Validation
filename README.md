@@ -13,3 +13,8 @@ After that you can simply double click the index file in "src/index.html"
 
 To add more entries, you can add them in "validation_emails.csv"
 
+## Sample outputs:
+
+![alt text](https://github.com/shivekchhabra/Credentials-Validation/blob/master/Outputs/app.png)
+
+![alt text](https://github.com/shivekchhabra/Credentials-Validation/blob/master/Outputs/email_format.png)
